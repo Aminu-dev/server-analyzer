@@ -1,0 +1,4 @@
+log_level,log_count
+INFO,20
+WARNING,15
+ERROR,15
